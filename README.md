@@ -2,76 +2,123 @@
 
 ## 📌 Project Overview
 
-This project analyzes Electric Vehicle (EV) data from multiple datasets and presents insights through interactive Tableau dashboards and stories.
+This project focuses on analyzing Electric Vehicle (EV) data from multiple datasets and presenting insights through interactive Tableau dashboards and stories.  
 
-The visualizations help understand:
-
-- Global EV performance trends
-- Indian EV market analysis
-- EV efficiency and affordability
-- Charging infrastructure distribution
-
-The project transforms raw EV data into meaningful insights for better understanding of EV adoption, pricing, and performance.
+The main objective is to transform raw EV data into meaningful visual insights related to vehicle performance, efficiency, pricing, and charging infrastructure.
 
 ---
 
 ## 🎯 Problem Statement
 
-Analyze Electric Vehicle datasets from India and global sources to create dashboards and stories that represent EV performance, charging infrastructure, pricing, and efficiency.
+Electric Vehicle data is available from multiple sources but is difficult to understand in raw format.  
+
+This project solves the problem by creating interactive dashboards and stories that allow users to explore EV trends, compare vehicles, and analyze charging infrastructure visually.
+
+---
+
+## 🗂 Project Structure
+
 
 ---
 
 ## 📊 Tableau Public Dashboard & Stories
 
-🔗 [View Dashboard & Stories](https://public.tableau.com/views/ElectricVehicleChargeandRangeAnalysis_17713481097120/Story1)
+🔗 **Live Project Link:**  
+https://public.tableau.com/views/ElectricVehicleChargeandRangeAnalysis_17713481097120/Story1
 
 ---
 
-## 🗂 Datasets Used
+## 🗃 Datasets Used
 
 1. EVIndia  
 2. Electric_vehicle_charging_station_list  
 3. ElectricCarData_Clean  
 4. Cheapestelectriccars-EVDatabase  
 
-Datasets are available inside the **cleaned_data/** folder.
+Datasets are available inside the **Development Phase / cleaned_data** folder.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- Tableau Public
-- Tableau Desktop
-- CSV Datasets
-- Data Visualization
-- Basic Data Cleaning
+- Tableau Desktop  
+- Tableau Public  
+- GitHub  
+- CSV Datasets  
+- Google Docs (Documentation)
 
 ---
 
-## 📈 Dashboards Included
+## 📈 Dashboards Developed
 
-- Main EV Charge & Range Analysis Dashboard
-- Global EV Performance Analysis
-- EV Efficiency & Affordability Analysis
-- Indian EV Market Analysis
-- Charging Infrastructure Dashboard
+- Main EV Charge & Range Analysis Dashboard  
+- Global EV Performance Analysis  
+- EV Efficiency & Affordability Analysis  
+- Indian EV Market Analysis  
+- Charging Infrastructure Dashboard  
 
-(Refer to **dashboards/** folder)
+Dashboard images are available inside:
+
 
 ---
 
-## 📖 Stories Included
+## 📖 Stories Developed
 
-- Story 1 — Project Overview
-- Story 2 — Global Performance Analysis
-- Story 3 — Efficiency & Cost Comparison
-- Story 4 — Indian EV Market Trends
-- Story 5 — Charging Infrastructure in India
+- Story 1 — Project Overview  
+- Story 2 — Global Performance Analysis  
+- Story 3 — Efficiency & Cost Comparison  
+- Story 4 — Indian EV Market Trends  
+- Story 5 — Charging Infrastructure Analysis  
 
-(Refer to **stories/** folder)
+Story images are available inside:
+
+
+---
+
+## 📂 Project Phases Included
+
+### Requirement Analysis
+- Customer Journey Map  
+- Solution Requirements  
+- Data Flow Diagram  
+- Technology Stack  
+
+### Project Design Phase
+- Problem Solution Fit  
+- Proposed Solution  
+- Solution Architecture  
+
+### Development Phase
+- Data preprocessing  
+- Business visualizations  
+- Dashboards and stories  
+
+### Deployment Phase
+- Tableau Public deployment process  
+
+### Performance Testing
+- Functional and performance testing report  
+
+### Doc and Demo
+- Final Project Documentation  
+
+### Executable Files
+- Execution guide to access dashboards  
 
 ---
 
 ## ⭐ Project Outcome
 
-This project demonstrates how data analytics and visualization can be used to analyze EV trends, pricing, efficiency, and charging infrastructure through interactive dashboards and storytelling.
+This project demonstrates how data visualization can simplify complex EV datasets and provide meaningful insights through interactive dashboards and storytelling.  
+
+Users can analyze EV trends, compare performance, study efficiency, and explore charging infrastructure using visual analytics.
+
+---
+
+## 🚀 Future Scope
+
+- Real-time EV data integration  
+- Predictive analytics for EV adoption  
+- Advanced analytical dashboards  
+- Mobile-friendly visualization design  
+ 
