@@ -77,6 +77,11 @@ Story images are available inside:
 
 ## 📂 Project Phases Included
 
+### Ideation Phase 
+- Brain stroming
+- Emphaty Map
+- Problem Statement 
+
 ### Requirement Analysis
 - Customer Journey Map  
 - Solution Requirements  
@@ -93,17 +98,16 @@ Story images are available inside:
 - Business visualizations  
 - Dashboards and stories  
 
-### Deployment Phase
-- Tableau Public deployment process  
+### Planning Phase
+- Planning Logic
+- project Planning
 
 ### Performance Testing
 - Functional and performance testing report  
 
-### Doc and Demo
+### Documentation
 - Final Project Documentation  
-
-### Executable Files
-- Execution guide to access dashboards  
+ 
 
 ---
 
